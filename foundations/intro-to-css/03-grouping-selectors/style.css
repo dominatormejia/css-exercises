@@ -1,0 +1,17 @@
+
+
+.black-and-white,
+.yellow-and-white {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.black-and-white{
+    background-color: hsl(0, 100%, 1%);
+    color: hsl(0, 33%, 96%);
+}
+
+.yellow-and-white {
+    background-color: hsl(65, 91%, 49%);
+    color: hsl(0, 0%, 3%);
+}
